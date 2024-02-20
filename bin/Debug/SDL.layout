@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fonction_SDL.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="40078" topLine="297" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+			<Collapse line="167" />
+			<Collapse line="173" />
+			<Collapse line="178" />
+			<Collapse line="182" />
+			<Collapse line="197" />
+			<Collapse line="207" />
+			<Collapse line="218" />
+			<Collapse line="393" />
+			<Collapse line="1040" />
+			<Collapse line="2619" />
+			<Collapse line="4289" />
+			<Collapse line="4460" />
+			<Collapse line="4470" />
+		</Folding>
+	</File>
+	<File name="projet_sans_SDL.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="243" topLine="7" />
+		</Cursor>
+		<Folding>
+			<Collapse line="12" />
+		</Folding>
+	</File>
+	<File name="fonction_SDL.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1410" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="projet_sans_SDL.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16161" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="7" />
+			<Collapse line="30" />
+			<Collapse line="49" />
+			<Collapse line="63" />
+			<Collapse line="80" />
+			<Collapse line="104" />
+			<Collapse line="113" />
+			<Collapse line="126" />
+			<Collapse line="155" />
+			<Collapse line="178" />
+			<Collapse line="232" />
+			<Collapse line="398" />
+			<Collapse line="592" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9097" topLine="81" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1668790505 source:c:\users\ilyes\desktop\projectpp\projet_sans_sdl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668789351 source:c:\users\ilyes\desktop\projectpp\projet_sans_sdl\projet_sans_sdl.c
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668788809 c:\users\ilyes\desktop\projectpp\projet_sans_sdl\projet_sans_sdl.h
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668817213 source:c:\users\yacine\downloads\compressed\projet_sans_sdl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668788810 c:\users\yacine\downloads\compressed\projet_sans_sdl\projet_sans_sdl.h
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668815561 source:c:\users\yacine\downloads\compressed\projet_sans_sdl\projet_sans_sdl.c
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668817213 source:c:\users\yacine\desktop\all\folders\s3\algo\tp\flipe game\projet_sans_sdl v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668788810 c:\users\yacine\desktop\all\folders\s3\algo\tp\flipe game\projet_sans_sdl v1.0\projet_sans_sdl.h
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
+1668815561 source:c:\users\yacine\desktop\all\folders\s3\algo\tp\flipe game\projet_sans_sdl v1.0\projet_sans_sdl.c
+	<stdio.h>
+	<stdlib.h>
+	"projet_sans_SDL.h"
+	<stdbool.h>
+	<math.h>
+
